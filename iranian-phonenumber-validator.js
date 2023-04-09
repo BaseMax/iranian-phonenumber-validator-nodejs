@@ -14,6 +14,9 @@ const has = (text) => {
 
 // Return true if the input text includes the iranian phone-number
 const includes = (text, email) => {
+    const matches = match(text);
+
+    if (!matches) return false;
     return match(text).includes(email);
 };
 
