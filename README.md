@@ -1,6 +1,6 @@
 # iranian-phonenumber-validator-nodejs
 
-This is a simple library for validating iranian phone numbers in nodejs that 
+This is a simple library for validating iranian phone numbers in nodejs that can help you to extract all phone numbers from a text, check if a text has a phone number, check if a text is excatly a phone number, check if a text includes a special phone number.
 
 ## Features
 
