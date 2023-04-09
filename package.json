@@ -1,0 +1,26 @@
+{
+	"name": "iranian-phonenumber-validator-nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://github.com/BaseMax/iranian-phonenumber-validator-nodejs",
+	"bugs": "https://github.com/BaseMax/iranian-phonenumber-validator-nodejs/issues",
+	"author": {
+		"name": "Max Base",
+		"email": "maxbasecode@gmail.com",
+		"url": "https://maxbase.org"
+	},
+	"main": "iranian-phonenumber-validator.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/BaseMax/iranian-phonenumber-validator-nodejs.git"
+	},
+	"dependencies": {},
+	"engines": {
+		"node": ">=0.8"
+	},
+	"licenses": [
+		{
+			"type": "GPL-3.0"
+		}
+	]
+}
