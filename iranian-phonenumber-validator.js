@@ -1,5 +1,5 @@
 // Regex to validate iranian phone-number
-const REGEX = /^(\+98|0)?9\d{9}$/;
+const REGEX = /(\+98|0)?9\d{9}/;
 const EXACT_REGEX = /^(\+98|0)?9\d{9}$/;
 
 // Return an array from all iranian phone-number inside the input text
