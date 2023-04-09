@@ -17,7 +17,7 @@ const includes = (text, email) => {
     const matches = match(text);
 
     if (!matches) return false;
-    return match(text).includes(email);
+    return matches.includes(email);
 };
 
 // Return true if the input text match only one iranian phone-number without any other characters or whitespaces
