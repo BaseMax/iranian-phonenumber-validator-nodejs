@@ -2,6 +2,13 @@
 
 This is a simple library for validating iranian phone numbers in nodejs that 
 
+## Features
+
+- Extract all phone numbers from a text
+- Check if a text has a phone number
+- Check if a text is excatly a phone number
+- Check if a text includes a special phone number
+
 ## Using
 
 Import the library in your project:
